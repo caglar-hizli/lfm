@@ -1,1 +1,1 @@
-# lfm
+# Latent Force Model [Alvarez et al., 2009] implementation in Gpflow as a simple GPR model.
